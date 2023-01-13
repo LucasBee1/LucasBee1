@@ -1,7 +1,7 @@
 Oi! Eu sou o Lucas ✋
 Atualmente estou estudando Java e JavaScript.
 
-Blog
+[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-bê-5415a1238/)
 
 Tecnologias que eu uso no meu dia 🖥️
 <div style= "display: inline_block"><br/>
