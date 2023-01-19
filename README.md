@@ -1,5 +1,5 @@
 Olá! Eu sou o Lucas ✋
-Atualmente estou estudando Java e JavaScript.
+Sou desenvolvedor Java, JavaScript e Python. Também já atuei como QA e tenho um amplo conhecimento em banco de dados MYSQL.
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-bê-5415a1238/)
 
