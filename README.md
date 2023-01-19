@@ -10,4 +10,4 @@ Tecnologias que eu uso no meu dia 🖥️
      <img align="center" alt="html5" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
      <img align="center" alt="html5" src="https://img.shields.io/badge/Java-4F4F4F?&style=for-the-badge&logo=java&logoColor=white" />
 <div><br/>
-Você pode entrar em contato comigo pelo meu email: lucasbee.ok@gmail.com
+Você pode entrar em contato comigo pelo meu email: lucas.be@unochapeco.edu.br
